@@ -1,4 +1,8 @@
-# SecretStroll
+# Privacy-Preserving Location-Based Recommender Service
+
+## Project Description
+
+This project was developed as part of EPFL's Advanced Topics on Privacy-Enhancing Technologies Class. The project is a privacy-preserving location-based recommendation service that enables users to learn nearby points of interest based on their location and subscriptions. The app protects user identity during authentication using attribute-based credentials, protects user location when retrieving nearby points of interest through the deanonymization of user trajectories, and protects against cell fingerprinting attacks via network traffic analysis. An in-depth discussion can be found in report.pdf.
 
 ## Introduction
 
