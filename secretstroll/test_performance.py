@@ -286,7 +286,6 @@ def get_pois(num_poi):
     Output
         arg used in register command
     '''
-    # TODO: GET ALL POIs FROM DATABASE
     poi = ['restaurant', 'bar', 'dojo']
     return poi[0:num_poi]
 

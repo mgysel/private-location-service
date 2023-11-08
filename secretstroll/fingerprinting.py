@@ -91,10 +91,6 @@ def load_data():
     feature extraction on your own.
     """
 
-    ###############################################
-    # TODO: Complete this function. 
-    ###############################################
-
     features = []
     labels = []
 
